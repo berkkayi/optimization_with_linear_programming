@@ -1,0 +1,12 @@
+Marco, kendisininde memleketi olduğu Brazilya dan kahve ithalatı yaparak kahve dükkanı işletmek istemektedir. İşletmede üç farklı türde karışım hazırlayıp satmayı planlamaktadır. Bu karışım isimleri sırasıyla,:
+- Tembel Pazar sabahı,
+-Canlandırıcı 
+-Bütün gece sınav.
+ Bu karışımları oluşturabilmek için kafein dozlerı faklı olan 4 farklı kahve çekirdeği türü kullanılmalıdır. Oluşturulacak kahve karışımlarının özellikleri; Tembel Pazar sabahı karışımında en çok %25 lik kısmı III ve IV kahve çekirdeği türünden oluşmalı Canlandırıcı karışımın %75 lik kısmı II ve III kahve çekirdeği türünden oluşmalı. Bütün gece sınav karışımında en az %60 lik kısmı IV kahve çekirdeği türünden oluşmalı. Her bir karışım türünün fiyatları ve eldeki stok durumu aşağıdaki gibidir. 
+#1 kg çekirdekten 30 bardak kahve çıkmaktadır.
+- 1. kahve çekirdeğinin fiyatı 2.5 birim ve stokta 500 kg çekirdek bulunmaktadır.
+- 2.kahve çekirdeğinin fiyatı 2.75 birim ve stokta 500 kg çekirdek bulunmaktadır.
+- 3.kahve çekirdeğinin fiyatı  2.00 birim ve stokta 500 kg çekirdek bulunmaktadır.
+- 4. kahve çekirdeğinin fiyatı 3.50 birim ve stokta 300 kg çekirdek bulunmaktadır.
+
+Ürün kısıtları altında karı maksimum yapcak kahve çekirdeği kullanım miktarları ve maksimum kar miktarı nedir ?
